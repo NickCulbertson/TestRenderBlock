@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "audiokit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AudioKit/AudioKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7531f7a98c07b034e5751181d32b6df80a87059a"
+      }
+    }
+  ],
+  "version" : 2
+}
